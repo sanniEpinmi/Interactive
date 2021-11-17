@@ -1,0 +1,10 @@
+com\bankit\config\AuthorizationServerConfig.class
+com\bankit\Application.class
+com\bankit\config\ResourceServerConfig.class
+com\bankit\config\SecurityConfig.class
+com\bankit\config\SwagguerConfig.class
+com\bankit\service\UserService.class
+com\bankit\controller\UserController.class
+com\bankit\model\User.class
+com\bankit\dao\UserDao.class
+com\bankit\service\impl\UserServiceImpl.class
